@@ -14,8 +14,6 @@ Aplicamos técnicas de regressão linear e não paramétrica (LOWESS) para model
 
 ## 📁 Estrutura
 - `notebook/` → Notebook com toda análise
-- `data/` → Base de dados utilizada (dados simulados)
-- `images/` → Gráficos e imagens geradas
 
 ## 🚀 Resultado
 O modelo LOWESS se mostrou muito mais eficaz na captura dos padrões não lineares dos dados, enquanto a regressão linear apresentou R² próximo de zero, evidenciando sua ineficácia neste cenário.
