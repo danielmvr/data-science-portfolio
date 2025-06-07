@@ -54,4 +54,4 @@ Projeto desenvolvido como parte do meu portfólio de Data Science.
 
 📌 [Veja meu portfólio completo no GitHub](https://github.com/danielmvr/data-science-portfolio)
 
-📌 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin/) <!-- substitua com seu link! -->
+📌 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/daniel-reis-833451304/)
