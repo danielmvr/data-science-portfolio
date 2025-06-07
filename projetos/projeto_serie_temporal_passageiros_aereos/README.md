@@ -13,6 +13,12 @@ A série de passageiros aéreos é um clássico conjunto de dados em problemas d
 - Modelagem preditiva com Holt-Winters (ETS)
 - Avaliação da performance do modelo
 
+## 📁 Estrutura
+- `notebook/` → Notebook com toda análise
+
+## 📜 Licença
+MIT License.
+
 ## 🗂️ Etapas Realizadas
 
 1. **Exploração inicial da série temporal**
