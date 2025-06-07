@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio de projetos em Ciência de Dados! Aqui compartilho p
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|--------------|
 | [Análise do Nível de Estresse com LOWESS](./projetos/analise-estresse-lowess) | Modelagem de padrões não lineares no estresse diário, utilizando regressão LOWESS. | Python, Pandas, Seaborn, Statsmodels |
-| Projeto 2 | *Em breve* | - |
+| [Análise e Modelagem de Séries Temporais - Passageiros Aéreos](./projetos/projeto_serie_temporal_passageiros_aereos) | Análise completa de uma série temporal real de passageiros aéreos: decomposição de componentes, análise de resíduos e modelagem preditiva com Holt-Winters (ETS).  | Python, Pandas, Matplotlib, Seaborn, Statsmodels, Séries Temporais, Holt-Winters, Data Visualization, Análise Exploratória, Modelagem Preditiva |
 | Projeto 3 | *Em breve* | - |
 
 ## 🛠️ Tecnologias Gerais
